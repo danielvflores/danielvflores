@@ -12,6 +12,9 @@ I'm a constant learner in the world of programming, always striving to improve m
 - **Databases** (SQL and NoSQL)
 - **REST APIs**
 
+## ⚡ Highlighted Projects
+- [**discord-api-connection**](https://github.com/tu-usuario/discord-api-connection)
+
 ## 🎯 Focus
 
 Although I've explored various areas, I identify most with **backend development**, where I can focus on logic, performance, and structural organization of applications.
