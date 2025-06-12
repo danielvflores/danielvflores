@@ -9,7 +9,7 @@ I'm a constant learner in the world of programming, always striving to improve m
 - **JavaScript**
 - **TypeScript**
 - **Java**
-- **Databases** (SQL - NoSQL - MongoDB - JSON)
+- **Databases** (MongoDB - JSON)
 - **REST APIs**
 
 ## ⚡ Highlighted Projects
