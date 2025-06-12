@@ -4,7 +4,7 @@ Hi, I'm **Daniel Flores Viera**, a **Computer Science and Engineering** student 
 
 I'm a constant learner in the world of programming, always striving to improve my skills day by day. I'm especially interested in software architecture, API design, and database management.
 
-## 🛠️ Technologies I’m fairly proficient in
+## 🛠️ Technologies I have experience with
 
 - **JavaScript**
 - **TypeScript**
