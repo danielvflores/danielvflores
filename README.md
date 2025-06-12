@@ -9,11 +9,14 @@ I'm a constant learner in the world of programming, always striving to improve m
 - **JavaScript**
 - **TypeScript**
 - **Java**
-- **Databases** (SQL and NoSQL)
+- **Databases** (SQL - NoSQL - MongoDB - JSON)
 - **REST APIs**
 
 ## ⚡ Highlighted Projects
-- [**discord-api-connection**](https://github.com/tu-usuario/discord-api-connection)
+- [**discord-api-connection**](https://github.com/danielvflores/discord-api-connection)
+- [**type-bot**](https://github.com/danielvflores/type-bot)
+The first project is a connection system between a Minecraft server's chat and a predefined Discord channel, using a REST API built with TypeScript, Express, and Java.
+The second project is a Discord bot developed entirely in TypeScript.
 
 ## 🎯 Focus
 
