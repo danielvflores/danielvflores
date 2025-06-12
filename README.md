@@ -1,25 +1,25 @@
+# 👨‍💻 About Me
 
-# 👨‍💻 Sobre mí
+Hi, I'm **Daniel Flores Viera**, a **Computer Science and Engineering** student with a passion for backend development and building efficient, scalable systems.
 
-Hola, soy **Daniel Flores Viera**, estudiante de **Ingeniería Civil en Informática** con pasión por el desarrollo backend y la construcción de sistemas eficientes y escalables.
+I'm a constant learner in the world of programming, always striving to improve my skills day by day. I'm especially interested in software architecture, API design, and database management.
 
-Soy un aprendiz constante en el mundo de la programación, siempre buscando mejorar mis habilidades día a día. Me interesa especialmente la arquitectura de software, el diseño de APIs y el manejo de bases de datos.
-
-### 🛠️ Tecnologías que domino medianamente bien
+## 🛠️ Technologies I’m fairly proficient in
 
 - **JavaScript**
 - **TypeScript**
 - **Java**
-- **Bases de datos** (SQL y NoSQL)
-- **APIs REST**
+- **Databases** (SQL and NoSQL)
+- **REST APIs**
 
-### 🎯 Enfoque
+## 🎯 Focus
 
-Aunque he explorado diversas áreas, me identifico más con el **desarrollo backend**, donde puedo concentrarme en la lógica, el rendimiento y la organización estructural de las aplicaciones.
+Although I've explored various areas, I identify most with **backend development**, where I can focus on logic, performance, and structural organization of applications.
 
 ---
 
-> Siempre aprendiendo, siempre construyendo 🚀
+> Always learning, always building 🚀
+
 
 <!--
 **danielvflores/danielvflores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
