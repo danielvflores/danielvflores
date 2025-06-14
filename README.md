@@ -10,7 +10,7 @@ I'm a constant learner in the world of programming, always striving to improve m
 - **TypeScript**
 - **Java**
 - **Databases** (MongoDB - JSON)
-- **REST APIs**
+- **REST APIs and WebSockets**
 
 ## ⚡ Highlighted Projects
 - [**mc-discord-ws**](https://github.com/danielvflores/discord-api-connection)
