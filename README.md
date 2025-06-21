@@ -9,7 +9,7 @@ I'm a constant learner in the world of programming, always striving to improve m
 - **JavaScript**
 - **TypeScript**
 - **Java**
-- **Databases** (MongoDB - JSON)
+- **Databases** (MongoDB - JSON - NOSQL)
 - **REST APIs and WebSockets**
 
 ## ⚡ Highlighted Projects
@@ -21,7 +21,7 @@ The second project is a Discord bot developed entirely in TypeScript.
 
 ## ⚒️ Ongoing Projects
 
-- [**system-token-plugin**](https://github.com/danielvflores/system-token-plugin) 
+- [**system-token-plugin**](https://github.com/danielvflores/system-token-plugin) ⚡
 
 
 
