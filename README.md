@@ -19,9 +19,9 @@ I'm a constant learner in the world of programming, always striving to improve m
 The first project is a connection system between a Minecraft server's chat and a predefined Discord channel, using a REST API built with TypeScript, Express, Cors, WebSoket and Java.
 The second project is a Discord bot developed entirely in TypeScript.
 
-## ⚒️ Ongoing Projects
+## ⚡ Ongoing Projects
 
-- [**system-token-plugin**](https://github.com/danielvflores/system-token-plugin) ⚡
+- [**system-token-plugin**](https://github.com/danielvflores/system-token-plugin) ⚒️
 
 
 
