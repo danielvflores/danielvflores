@@ -13,6 +13,8 @@ I'm a constant learner in the world of programming, always striving to improve m
 - **REST APIs and WebSockets**
 
 ## ⚡ Highlighted Projects
+
+- [**system-token-plugin**](https://github.com/danielvflores/system-token-plugin) ✅ 🔧 Actively maintained
 - [**mc-discord-ws**](https://github.com/danielvflores/discord-api-connection) ✅
 - [**type-bot**](https://github.com/danielvflores/type-bot) ✅
 
@@ -21,7 +23,7 @@ The second project is a Discord bot developed entirely in TypeScript.
 
 ## ⚡ Ongoing Projects
 
-- [**system-token-plugin**](https://github.com/danielvflores/system-token-plugin) ⚒️
+- [] ()
 
 
 
