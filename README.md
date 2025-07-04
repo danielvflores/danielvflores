@@ -14,16 +14,19 @@ I'm a constant learner in the world of programming, always striving to improve m
 
 ## ⚡ Highlighted Projects
 
-- [**system-token-plugin**](https://github.com/danielvflores/system-token-plugin) ✅ 🔧 Actively maintained
+- [**system-token-plugin**](https://github.com/danielvflores/system-token-plugin) ✅  (`🔧 Actively maintained`)
 - [**mc-discord-ws**](https://github.com/danielvflores/discord-api-connection) ✅
 - [**type-bot**](https://github.com/danielvflores/type-bot) ✅
 
-The first project is a connection system between a Minecraft server's chat and a predefined Discord channel, using a REST API built with TypeScript, Express, Cors, WebSoket and Java.
-The second project is a Discord bot developed entirely in TypeScript.
+▪︎ `System Token Plugin` : This project is a complete Spigot plugin for Java 8 (Spigot 1.8.8), featuring a token economy and custom enchants.<br>
+▪︎ `mc-discord-ws` : This project is an API using a WebSocket connection for bidirectional communication between Discord and Minecraft.<br>
+▪︎ `type-bot` : This project is a simple multipurpose Discord bot built with TypeScript.<br>
+
 
 ## ⚡ Ongoing Projects
 
-- [] ()
+- [**realtime-chat-ws**](https://github.com/danielvflores/realtime-chat-ws) ⚒️
+> Prototype of a real-time chat app using WebSocket, TypeScript, SQL, Astro, and Tailwind CSS.
 
 
 
@@ -36,17 +39,3 @@ Although I've explored various areas, I identify most with **backend development
 > Always learning, always building 🚀
 
 
-<!--
-**danielvflores/danielvflores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
