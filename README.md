@@ -25,9 +25,11 @@ I'm a constant learner in the world of programming, always striving to improve m
 
 ## ⚡ Ongoing Projects
 
-- [**realtime-chat-ws**](https://github.com/danielvflores/realtime-chat-ws) ⚒️
-> Prototype of a real-time chat app using WebSocket, TypeScript, SQL, Astro, and Tailwind CSS.
+- **S-Guard** 🛡️  
+> A modern, modular Discord security bot aiming to be a full-featured, free alternative to the discontinued D-Safe. Built with a focus on reliability, user customization, and real-time server protection through an integrated dashboard, API, and bot system.
 
+- [**sguard-api**](https://github.com/danielvflores/sguard-api) ⚒️  
+> API backend for the S-Guard Discord bot. A full-stack project to deliver a modern, free, and modular alternative to D-Safe — including bot, API, dashboard, and cloud deployment with TypeScript, Express, Astro, and MongoDB.
 
 
 ## 🎯 Focus
