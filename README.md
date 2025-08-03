@@ -25,11 +25,14 @@ I'm a constant learner in the world of programming, always striving to improve m
 
 ## ⚡ Ongoing Projects
 
-- **S-Guard** 🛡️  
+- **S-Guard Project** 🛡️  
 > A modern, modular Discord security bot aiming to be a full-featured, free alternative to the discontinued D-Safe. Built with a focus on reliability, user customization, and real-time server protection through an integrated dashboard, API, and bot system.
 
-- [**sguard-api**](https://github.com/danielvflores/sguard-api) ⚒️  
+- [**sguard-api**](https://github.com/danielvflores/sguard-api) 💻  
 > API backend for the S-Guard Discord bot. A full-stack project to deliver a modern, free, and modular alternative to D-Safe — including bot, API, dashboard, and cloud deployment with TypeScript, Express, Astro, and MongoDB.
+
+- [**sguard-bot**](https://github.com/danielvflores/sguard-bot) 🤖  
+> The Discord bot component of S-Guard. Built with TypeScript and discordx, it provides advanced moderation, anti-raid protection, and real-time message analysis. Fully integrated with the API and dashboard for seamless server management and security.
 
 
 ## 🎯 Focus
