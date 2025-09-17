@@ -3,7 +3,7 @@
 Hey there! I'm **Daniel Flores Viera**, a passionate **Computer Science & Engineering** student focused on backend development and building efficient, scalable systems.
 
 I'm always learning and growing in the world of programming—whether it's code, architecture, or databases, I'm here for it!  
-> "The future belongs to those who never stop learning 🚀"
+> " Hard work never lets you down 🚀"
 
 ## 🛠️ Technologies I have experience with
 
