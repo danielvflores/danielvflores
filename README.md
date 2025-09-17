@@ -1,46 +1,50 @@
 # 👨‍💻 About Me
 
-Hi, I'm **Daniel Flores Viera**, a **Computer Science and Engineering** student with a passion for backend development and building efficient, scalable systems.
+Hey there! I'm **Daniel Flores Viera**, a passionate **Computer Science & Engineering** student focused on backend development and building efficient, scalable systems.
 
-I'm a constant learner in the world of programming, always striving to improve my skills day by day. I'm especially interested in software architecture, API design, and database management.
+I'm always learning and growing in the world of programming—whether it's code, architecture, or databases, I'm here for it!  
+> "The future belongs to those who never stop learning 🚀"
 
 ## 🛠️ Technologies I have experience with
 
-- **JavaScript**
-- **TypeScript**
-- **Java**
-- **Databases** (MongoDB - JSON - NOSQL)
-- **REST APIs and WebSockets**
+- **JavaScript** & **TypeScript** 💻
+- **Java** ☕
+- **Databases** (MongoDB, JSON, NoSQL) 🗄️
+- **REST APIs & WebSockets** 🌐
+- **Express / Discord.js / Astro** ⚡
+- **Modular & Secure Design** 🛡️
 
 ## ⚡ Highlighted Projects
 
-- [**system-token-plugin**](https://github.com/danielvflores/system-token-plugin) ✅  (`🔧 Actively maintained`)
-- [**mc-discord-ws**](https://github.com/danielvflores/discord-api-connection) ✅
-- [**type-bot**](https://github.com/danielvflores/type-bot) ✅
+- [**system-token-plugin**](https://github.com/danielvflores/system-token-plugin) 🔧 (`Actively maintained`)
+- [**mc-discord-ws**](https://github.com/danielvflores/discord-api-connection) 🌉
+- [**type-bot**](https://github.com/danielvflores/type-bot) 🤖
 
-▪︎ `System Token Plugin` : This project is a complete Spigot plugin for Java 8 (Spigot 1.8.8), featuring a token economy and custom enchants.<br>
-▪︎ `mc-discord-ws` : This project is an API using a WebSocket connection for bidirectional communication between Discord and Minecraft.<br>
-▪︎ `type-bot` : This project is a simple multipurpose Discord bot built with TypeScript.<br>
+▪︎ `System Token Plugin`: A complete Spigot plugin for Java 8 (Spigot 1.8.8), featuring a token economy and custom enchants.<br>
+▪︎ `mc-discord-ws`: An API using WebSocket for real-time, bidirectional communication between Discord and Minecraft.<br>
+▪︎ `type-bot`: A simple multipurpose Discord bot built with TypeScript.<br>
+> "Every project is a chance to learn something new and push boundaries 💡"
 
+## 🚧 Ongoing Projects
 
-## ⚡ Ongoing Projects
+- [**Writook**](https://github.com/danielvflores/Writook) 📚  
+> An ambitious prototype aiming to be a creative platform for writers, readers, and content creators.  
+> Writook will bring collaborative tools, story management, and a thriving creative community.  
+> _Check out [Structure.md](https://github.com/danielvflores/Writook/blob/main/Structure.md) for the long-term vision._  
+> "Building dreams, one line of code at a time ✨"
 
-- **S-Guard Project** 🛡️  
-> A modern, modular Discord security bot aiming to be a full-featured, free alternative to the discontinued D-Safe. Built with a focus on reliability, user customization, and real-time server protection through an integrated dashboard, API, and bot system.
-
-- [**sguard-api**](https://github.com/danielvflores/sguard-api) 💻  
-> API backend for the S-Guard Discord bot. A full-stack project to deliver a modern, free, and modular alternative to D-Safe — including bot, API, dashboard, and cloud deployment with TypeScript, Express, Astro, and MongoDB.
-
-- [**sguard-bot**](https://github.com/danielvflores/sguard-bot) 🤖  
-> The Discord bot component of S-Guard. Built with TypeScript and discordx, it provides advanced moderation, anti-raid protection, and real-time message analysis. Fully integrated with the API and dashboard for seamless server management and security.
-
+- [**S-Guard Project**](https://github.com/danielvflores/sguard-api) 🛡️  
+> S-Guard is my modern, modular solution for Discord security.  
+> The project includes a bot, dashboard, and API—focused on real-time protection, customization, and user-friendly features.  
+> - [**sguard-api**](https://github.com/danielvflores/sguard-api): RESTful backend for managing bot configs, user settings, and moderation tools. Built in TypeScript for scalability and robustness.<br>
+> - [**sguard-bot**](https://github.com/danielvflores/sguard-bot): Discord bot component with advanced moderation, anti-raid protection, and live message analysis. Fully integrated with the API and dashboard.<br>
+> "Security isn't just a feature—it's an experience for every server! 🛡️"
 
 ## 🎯 Focus
 
-Although I've explored various areas, I identify most with **backend development**, where I can focus on logic, performance, and structural organization of applications.
+While I've explored many areas, I truly identify with **backend development**—where logic, performance, and architecture come together.
+> "The magic happens behind the scenes, where logic comes to life ✨"
 
 ---
 
-> Always learning, always building 🚀
-
-
+> **Always learning, always building. Never stop! 🚀**
