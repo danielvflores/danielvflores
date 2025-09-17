@@ -8,10 +8,10 @@ I'm always learning and growing in the world of programming—whether it's code,
 ## 🛠️ Technologies I have experience with
 
 - **JavaScript** & **TypeScript** 💻
-- **Java** ☕
-- **Databases** (MongoDB, JSON, NoSQL) 🗄️
+- **Java** & **Spring Boot** ☕
+- **Databases** (MongoDB, JSON, SQLite) 🗄️
 - **REST APIs & WebSockets** 🌐
-- **Express / Discord.js / Astro** ⚡
+- **Express / NodeJS / Astro / Tailwind** ⚡
 - **Modular & Secure Design** 🛡️
 
 ## ⚡ Highlighted Projects
