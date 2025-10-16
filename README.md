@@ -1,9 +1,22 @@
-# 👨‍💻 About Me
+<div align="center">
 
-Hey there! I'm **Daniel Flores Viera**, a passionate **Computer Science & Engineering** student focused on backend development and building efficient, scalable systems.
+# 💻 Daniel Flores Viera | Backend Developer
 
-I'm always learning and growing in the world of programming—whether it's code, architecture, or databases, I'm here for it!  
-> "Hard work never lets you down 🚀"
+
+
+
+### 🚀 About Me
+
+**📖 Computer Science & Engineering Student**  
+📍 **Focus:** Backend Development & System Architecture  
+❤️ **Passion:** Scalable Systems, Clean Code, Database Design  
+🚀 **Motto:** "Hard work never lets you down"  
+📈 **Status:** Always learning and growing  
+🎯 **Interests:** Code, Architecture, Databases, Performance  
+
+</div>
+
+---
 
 ## 🛠️ Technologies I have experience with
 
@@ -14,36 +27,126 @@ I'm always learning and growing in the world of programming—whether it's code,
 - **Express / NodeJS / Astro / Tailwind** ⚡
 - **Modular & Secure Design** 🛡️
 
-## ⚡ Highlighted Projects
+---
 
-- [**system-token-plugin**](https://github.com/danielvflores/system-token-plugin) 🔧 (`Actively maintained`)
-- [**mc-discord-ws**](https://github.com/danielvflores/discord-api-connection) 🌉
-- [**type-bot**](https://github.com/danielvflores/type-bot) 🤖
+## ⚡ Featured Projects
 
-▪︎ `System Token Plugin`: A complete Spigot plugin for Java 8 (Spigot 1.8.8), featuring a token economy and custom enchants.<br>
-▪︎ `mc-discord-ws`: An API using WebSocket for real-time, bidirectional communication between Discord and Minecraft.<br>
-▪︎ `type-bot`: A simple multipurpose Discord bot built with TypeScript.<br>
-> "Every project is a chance to learn something new and push boundaries 💡"
+<div align="center">
 
-## 🚧 Ongoing Projects
+<table>
+<tr>
+<td width="33%" align="center">
 
-- [**Writook**](https://github.com/danielvflores/Writook) 📚  
-> An ambitious prototype aiming to be a creative platform for writers, readers, and content creators.  
-> Writook will bring collaborative tools, story management, and a thriving creative community.  
-> _Check out [Structure.md](https://github.com/danielvflores/Writook/blob/main/Structure.md) for the long-term vision._  
-> "Building dreams, one line of code at a time ✨"
+### � [Writook Platform](https://github.com/danielvflores/Writook)
+[![Status](https://img.shields.io/badge/Status-Featured-purple?style=flat-square)](https://github.com/danielvflores/Writook)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-blue?style=flat-square)](https://writook.danielvflores.xyz)
 
-- [**S-Guard Project**](https://github.com/danielvflores/sguard-api) 🛡️  
-> S-Guard is my modern, modular solution for Discord security.  
-> The project includes a bot, dashboard, and API—focused on real-time protection, customization, and user-friendly features.  
-> - [**sguard-api**](https://github.com/danielvflores/sguard-api): RESTful backend for managing bot configs, user settings, and moderation tools. Built in TypeScript for scalability and robustness.<br>
-> - [**sguard-bot**](https://github.com/danielvflores/sguard-bot): Discord bot component with advanced moderation, anti-raid protection, and live message analysis. Fully integrated with the API and dashboard.<br>
-> "Security isn't just a feature—it's an experience for every server! 🛡️"
+**Full-Stack Creative Writing Platform**
+- 📖 Collaborative writing tools
+- ⚙️ Modern full-stack architecture
+- 🔧 Complete content management system
+- 🎨 TinyMCE rich text editor integration
+- 🚀 React responsive frontend
 
-## 🎯 Focus
+</td>
+<td width="33%" align="center">
 
-While I've explored many areas, I truly identify with **backend development**—where logic, performance, and architecture come together.
-> "The magic happens behind the scenes, where logic comes to life ✨"
+### 🛡️ [SGuard API](https://github.com/danielvflores/sguard-api)
+[![Tech](https://img.shields.io/badge/Tech-Backend-blue?style=flat-square)](https://github.com/danielvflores/sguard-api)
+
+**Robust Backend System**
+- 🌐 RESTful API architecture
+- 🔐 OAuth2 authentication
+- 📊 Administrative dashboard
+- ☁️ Cloud infrastructure scalable
+- 🛠️ Complete moderation automation
+
+</td>
+<td width="33%" align="center">
+
+### 🔍 [Parallel Nmap Port Scanner](https://github.com/danielvflores/parallel-nmap-port-scanner)
+[![Lang](https://img.shields.io/badge/Built_with-Python-green?style=flat-square)](https://github.com/danielvflores/parallel-nmap-port-scanner)
+
+**Advanced Cybersecurity Tool**
+- 🎯 Multi-threaded network scanning
+- ⌨️ Privilege validation & robust input
+- 📋 DNS logging & detailed reporting
+- ⚡ Customizable scan options
+- 🛡️ Professional security auditing
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### ⛏️ [System Token Plugin](https://github.com/danielvflores/system-token-plugin)
+[![Status](https://img.shields.io/badge/Status-Active_Maintenance-brightgreen?style=flat-square)](https://github.com/danielvflores/system-token-plugin)
+
+**Enterprise Minecraft Plugin**
+- 🎮 Complete token economy system
+- ⚔️ Custom enchantment framework
+- 🏗️ Object-oriented architecture
+- 🧰 NBT manipulation & PlaceholderAPI
+- 📊 High-performance server integration
+
+</td>
+<td width="50%" align="center">
+
+### 🌉 [MC Discord WebSocket](https://github.com/danielvflores/discord-api-connection)
+[![Tech](https://img.shields.io/badge/Tech-WebSocket-blue?style=flat-square)](https://github.com/danielvflores/discord-api-connection)
+
+**Real-time Integration API**
+- 🔄 Bidirectional WebSocket communication
+- 🎮 Discord ↔ Minecraft live bridge  
+- ⚡ Real-time data synchronization
+- 🛠️ Scalable microservice architecture
+- 🔧 Complete event-driven system
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+<i>"Building dreams, one line of code at a time ✨"</i>
+<br>
+<i>"Security isn't just a feature—it's an experience for every server! 🛡️"</i>
+</div>
+
+
+
+---
+
+## 🎯 My Passion & Focus
+
+<div align="center">
+
+**🎯 ASPIRING BACKEND DEVELOPER 🎯**
+
+💡 **Logic** • 🚀 **Performance** • 🏗️ **Architecture** • 🔧 **Scalability**
+
+*"Clean, understandable, and maintainable code is the foundation of quality software."*
+
+
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+- **LinkedIn:** [danielvflores](https://linkedin.com/in/danielvflores)
+- **GitHub:** [danielvflores](https://github.com/danielvflores)  
+- **Email:** [danielvflores08@gmail.com](mailto:danielvflores08@gmail.com)
 
 ---
 
