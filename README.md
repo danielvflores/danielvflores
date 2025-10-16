@@ -37,7 +37,7 @@
 <tr>
 <td width="33%" align="center">
 
-### � [Writook Platform](https://github.com/danielvflores/Writook)
+### 📖 [Writook Platform](https://github.com/danielvflores/Writook)
 [![Status](https://img.shields.io/badge/Status-Featured-purple?style=flat-square)](https://github.com/danielvflores/Writook)
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-blue?style=flat-square)](https://writook.danielvflores.xyz)
 
