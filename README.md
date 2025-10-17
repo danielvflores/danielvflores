@@ -117,8 +117,6 @@
 </div>
 
 <div align="center">
-<i>"Building dreams, one line of code at a time ✨"</i>
-<br>
 <i>"Security isn't just a feature—it's an experience for every server! 🛡️"</i>
 </div>
 
