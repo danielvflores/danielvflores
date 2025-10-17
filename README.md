@@ -143,7 +143,7 @@
 ## 🌐 Connect With Me
 
 - **LinkedIn:** [danielvflores](https://linkedin.com/in/danielvflores)
-- **GitHub:** [danielvflores](https://github.com/danielvflores)  
+- **Website:** [danielvflores](https://danielvflores.xyz)  
 - **Email:** [danielvflores08@gmail.com](mailto:danielvflores08@gmail.com)
 
 ---
