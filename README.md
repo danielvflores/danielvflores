@@ -52,7 +52,7 @@
 <td width="33%" align="center">
 
 ### 🛡️ [SGuard](https://github.com/danielvflores/SGuard)
-[![Tech](https://img.shields.io/badge/Tech-Full%20Stack-blue?style=flat-square)](https://github.com/danielvflores/SGuard)
+[![Tech](https://img.shields.io/badge/Tech-Full%20Stack-blue?style=flat-square)](https://github.com/danielvflores/sguard-project)
 
 **Complete Discord Security Platform**
 - 🤖 Intelligent Discord bot with auto-moderation
