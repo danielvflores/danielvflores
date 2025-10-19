@@ -51,15 +51,15 @@
 </td>
 <td width="33%" align="center">
 
-### 🛡️ [SGuard API](https://github.com/danielvflores/sguard-api)
-[![Tech](https://img.shields.io/badge/Tech-Backend-blue?style=flat-square)](https://github.com/danielvflores/sguard-api)
+### 🛡️ [SGuard](https://github.com/danielvflores/SGuard)
+[![Tech](https://img.shields.io/badge/Tech-Full%20Stack-blue?style=flat-square)](https://github.com/danielvflores/SGuard)
 
-**Robust Backend System**
-- 🌐 RESTful API architecture
-- 🔐 OAuth2 authentication
-- 📊 Administrative dashboard
-- ☁️ Cloud infrastructure scalable
-- 🛠️ Complete moderation automation
+**Complete Discord Security Platform**
+- 🤖 Intelligent Discord bot with auto-moderation
+- 🌐 RESTful API for configuration management
+- 💻 Modern web dashboard interface
+- 🔐 OAuth2 authentication system
+- 🛠️ Comprehensive moderation automation
 
 </td>
 <td width="33%" align="center">
